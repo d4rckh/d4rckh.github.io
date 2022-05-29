@@ -9,6 +9,6 @@ jobs:
     - id: Build-Vue
       uses: xRealNeon/VuePagesAction@1.0.1
       with:
-        username: 'YourGithubName'
-        reponame: 'YourRepoName'
+        username: 'd4rckh'
+        reponame: 'd4rckh.github.io'
         token: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
